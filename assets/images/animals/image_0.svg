@@ -1,0 +1,13 @@
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Sun -->
+  <path d="M 400 100 A 40 40 0 1 1 399 99 Z" fill="none" stroke="black" stroke-width="2"/>
+  <!-- House Base -->
+  <path d="M 150 400 L 150 250 L 350 250 L 350 400 Z" fill="none" stroke="black" stroke-width="2"/>
+  <!-- House Roof -->
+  <path d="M 130 250 L 250 150 L 370 250 Z" fill="none" stroke="black" stroke-width="2"/>
+  <!-- Door -->
+  <path d="M 220 400 L 220 320 L 280 320 L 280 400 Z" fill="none" stroke="black" stroke-width="2"/>
+  <!-- Window -->
+  <path d="M 170 270 L 170 310 L 210 310 L 210 270 Z" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 290 270 L 290 310 L 330 310 L 330 270 Z" fill="none" stroke="black" stroke-width="2"/>
+</svg>

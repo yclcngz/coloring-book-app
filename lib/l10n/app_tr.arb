@@ -1,0 +1,14 @@
+{
+  "appTitle": "Boyama Kitabı",
+  "play": "Oyna",
+  "categories": "Kategoriler",
+  "colors": "Renkler",
+  "next": "İleri",
+  "back": "Geri",
+  "animals": "Hayvanlar",
+  "flowers": "Çiçekler",
+  "items": "Eşyalar",
+  "people": "İnsanlar",
+  "level": "Bölüm {levelNumber}",
+  "clear": "Temizle"
+}

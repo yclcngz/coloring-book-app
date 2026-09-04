@@ -1,0 +1,24 @@
+{
+  "appTitle": "Coloring Book",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "play": "Play",
+  "categories": "Categories",
+  "colors": "Colors",
+  "next": "Next",
+  "back": "Back",
+  "animals": "Animals",
+  "flowers": "Flowers",
+  "items": "Items",
+  "people": "People",
+  "level": "Level {levelNumber}",
+  "@level": {
+    "placeholders": {
+      "levelNumber": {
+        "type": "int"
+      }
+    }
+  },
+  "clear": "Clear"
+}
